@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Varjosää
+Comment=Gothic lunar calendar and transparent desktop clock
+Exec=varjosaa
+Icon=varjosaa
+Terminal=false
+Categories=Office;Calendar;
+StartupNotify=true
